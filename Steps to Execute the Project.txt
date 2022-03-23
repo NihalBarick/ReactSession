@@ -1,0 +1,6 @@
+Steps to run the Project after downloading from Github:
+
+- Open Visual Studio Code.
+- Go to the Folder where the Project Files are present.
+- Run 'npm install'. This process tries to fetch all the project dependencies defined in package.json.
+- Then use 'npm start' to run the project. 
